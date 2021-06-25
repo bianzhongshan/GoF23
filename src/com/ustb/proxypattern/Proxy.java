@@ -1,4 +1,4 @@
-package com.ustb.Proxy;
+package com.ustb.proxypattern;
 
 public class Proxy implements GiveGift{
 

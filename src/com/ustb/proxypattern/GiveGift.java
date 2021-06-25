@@ -1,4 +1,4 @@
-package com.ustb.Proxy;
+package com.ustb.proxypattern;
 
 public interface GiveGift {
     void GiveDolls();
